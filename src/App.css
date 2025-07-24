@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  max-width: 400px;
+  margin: auto;
+  padding-top: 40px;
+}
+input {
+  width: 70%;
+  padding: 8px;
+}
+button {
+  padding: 8px 12px;
+  margin-left: 5px;
+}
+li {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+}
